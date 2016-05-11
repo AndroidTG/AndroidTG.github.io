@@ -1,1 +1,3 @@
-This repo is for displaying in a neat fassion the warnings and bans of the /r/andorid telegram chat network, consisting of @androidtg and co.
+# AndroidTG.github.io
+
+This repo is for displaying, in a neat fashion, the warnings and bans of the /r/Android telegram chat network, consisting of @AndroidTG and co.
